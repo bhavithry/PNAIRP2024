@@ -1,2 +1,2 @@
 # PNAIRP2024
-Preconference workshop codes
+Preconference workshop code and AI propmts.
